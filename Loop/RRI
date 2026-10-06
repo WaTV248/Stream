@@ -2,10 +2,10 @@
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:10
 #EXTINF:10.0,
-video1.ts
+https://github.com/WaTV248/Stream/raw/refs/heads/main/Loop/Video%20File/Looping%20RRI.mp4
 #EXTINF:10.0,
-video2.ts
+https://github.com/WaTV248/Stream/raw/refs/heads/main/Loop/Video%20File/Looping%20RRI.mp4
 #EXT-X-DISCONTINUITY
 #EXTINF:10.0,
-video1.ts
+https://github.com/WaTV248/Stream/raw/refs/heads/main/Loop/Video%20File/Looping%20RRI.mp4
 #EXT-X-ENDLIST
