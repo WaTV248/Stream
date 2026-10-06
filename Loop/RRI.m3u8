@@ -4,7 +4,6 @@
 #EXT-X-DISCONTINUITY-SEQUENCE:0
 #EXT-X-TARGETDURATION:2
 
-#EXT-X-DISCONTINUITY
 #EXTINF:2,
 https://github.com/WaTV248/Stream/raw/refs/heads/main/Loop/Video%20File/RRI%20Loop/segment-2-1.ts
 #EXTINF:2,
@@ -22,8 +21,6 @@ https://github.com/WaTV248/Stream/raw/refs/heads/main/Loop/Video%20File/RRI%20Lo
 #EXTINF:1,
 https://github.com/WaTV248/Stream/raw/refs/heads/main/Loop/Video%20File/RRI%20Loop/segment-2-8.ts
 
-#EXT-X-MEDIA-SEQUENCE
-#EXT-X-DISCONTINUITY-SEQUENCE
 #EXTINF:2,
 https://github.com/WaTV248/Stream/raw/refs/heads/main/Loop/Video%20File/RRI%20Loop/segment-2-1.ts
 #EXTINF:2,
@@ -41,8 +38,6 @@ https://github.com/WaTV248/Stream/raw/refs/heads/main/Loop/Video%20File/RRI%20Lo
 #EXTINF:1,
 https://github.com/WaTV248/Stream/raw/refs/heads/main/Loop/Video%20File/RRI%20Loop/segment-2-8.ts
 
-#EXT-X-MEDIA-SEQUENCE
-#EXT-X-DISCONTINUITY-SEQUENCE
 #EXTINF:2,
 https://github.com/WaTV248/Stream/raw/refs/heads/main/Loop/Video%20File/RRI%20Loop/segment-2-1.ts
 #EXTINF:2,
@@ -60,8 +55,6 @@ https://github.com/WaTV248/Stream/raw/refs/heads/main/Loop/Video%20File/RRI%20Lo
 #EXTINF:1,
 https://github.com/WaTV248/Stream/raw/refs/heads/main/Loop/Video%20File/RRI%20Loop/segment-2-8.ts
 
-#EXT-X-MEDIA-SEQUENCE
-#EXT-X-DISCONTINUITY-SEQUENCE
 #EXTINF:2,
 https://github.com/WaTV248/Stream/raw/refs/heads/main/Loop/Video%20File/RRI%20Loop/segment-2-1.ts
 #EXTINF:2,
@@ -79,8 +72,23 @@ https://github.com/WaTV248/Stream/raw/refs/heads/main/Loop/Video%20File/RRI%20Lo
 #EXTINF:1,
 https://github.com/WaTV248/Stream/raw/refs/heads/main/Loop/Video%20File/RRI%20Loop/segment-2-8.ts
 
-#EXT-X-MEDIA-SEQUENCE
-#EXT-X-DISCONTINUITY-SEQUENCE
+#EXTINF:2
+https://github.com/WaTV248/Stream/raw/refs/heads/main/Loop/Video%20File/RRI%20Loop/segment-2-1.ts
+#EXTINF:2,
+https://github.com/WaTV248/Stream/raw/refs/heads/main/Loop/Video%20File/RRI%20Loop/segment-2-2.ts
+#EXTINF:2,
+https://github.com/WaTV248/Stream/raw/refs/heads/main/Loop/Video%20File/RRI%20Loop/segment-2-3.ts
+#EXTINF:2,
+https://github.com/WaTV248/Stream/raw/refs/heads/main/Loop/Video%20File/RRI%20Loop/segment-2-4.ts
+#EXTINF:2,
+https://github.com/WaTV248/Stream/raw/refs/heads/main/Loop/Video%20File/RRI%20Loop/segment-2-5.ts
+#EXTINF:2,
+https://github.com/WaTV248/Stream/raw/refs/heads/main/Loop/Video%20File/RRI%20Loop/segment-2-6.ts
+#EXTINF:2,
+https://github.com/WaTV248/Stream/raw/refs/heads/main/Loop/Video%20File/RRI%20Loop/segment-2-7.ts
+#EXTINF:1,
+https://github.com/WaTV248/Stream/raw/refs/heads/main/Loop/Video%20File/RRI%20Loop/segment-2-8.ts
+
 #EXTINF:2,
 https://github.com/WaTV248/Stream/raw/refs/heads/main/Loop/Video%20File/RRI%20Loop/segment-2-1.ts
 #EXTINF:2,
@@ -98,8 +106,6 @@ https://github.com/WaTV248/Stream/raw/refs/heads/main/Loop/Video%20File/RRI%20Lo
 #EXTINF:1,
 https://github.com/WaTV248/Stream/raw/refs/heads/main/Loop/Video%20File/RRI%20Loop/segment-2-8.ts
 
-#EXT-X-MEDIA-SEQUENCE
-#EXT-X-DISCONTINUITY-SEQUENCE
 #EXTINF:2,
 https://github.com/WaTV248/Stream/raw/refs/heads/main/Loop/Video%20File/RRI%20Loop/segment-2-1.ts
 #EXTINF:2,
@@ -117,8 +123,6 @@ https://github.com/WaTV248/Stream/raw/refs/heads/main/Loop/Video%20File/RRI%20Lo
 #EXTINF:1,
 https://github.com/WaTV248/Stream/raw/refs/heads/main/Loop/Video%20File/RRI%20Loop/segment-2-8.ts
 
-#EXT-X-MEDIA-SEQUENCE
-#EXT-X-DISCONTINUITY-SEQUENCE
 #EXTINF:2,
 https://github.com/WaTV248/Stream/raw/refs/heads/main/Loop/Video%20File/RRI%20Loop/segment-2-1.ts
 #EXTINF:2,
@@ -135,44 +139,5 @@ https://github.com/WaTV248/Stream/raw/refs/heads/main/Loop/Video%20File/RRI%20Lo
 https://github.com/WaTV248/Stream/raw/refs/heads/main/Loop/Video%20File/RRI%20Loop/segment-2-7.ts
 #EXTINF:1,
 https://github.com/WaTV248/Stream/raw/refs/heads/main/Loop/Video%20File/RRI%20Loop/segment-2-8.ts
-
-#EXT-X-MEDIA-SEQUENCE
-#EXT-X-DISCONTINUITY-SEQUENCE
-#EXTINF:2,
-https://github.com/WaTV248/Stream/raw/refs/heads/main/Loop/Video%20File/RRI%20Loop/segment-2-1.ts
-#EXTINF:2,
-https://github.com/WaTV248/Stream/raw/refs/heads/main/Loop/Video%20File/RRI%20Loop/segment-2-2.ts
-#EXTINF:2,
-https://github.com/WaTV248/Stream/raw/refs/heads/main/Loop/Video%20File/RRI%20Loop/segment-2-3.ts
-#EXTINF:2,
-https://github.com/WaTV248/Stream/raw/refs/heads/main/Loop/Video%20File/RRI%20Loop/segment-2-4.ts
-#EXTINF:2,
-https://github.com/WaTV248/Stream/raw/refs/heads/main/Loop/Video%20File/RRI%20Loop/segment-2-5.ts
-#EXTINF:2,
-https://github.com/WaTV248/Stream/raw/refs/heads/main/Loop/Video%20File/RRI%20Loop/segment-2-6.ts
-#EXTINF:2,
-https://github.com/WaTV248/Stream/raw/refs/heads/main/Loop/Video%20File/RRI%20Loop/segment-2-7.ts
-#EXTINF:1,
-https://github.com/WaTV248/Stream/raw/refs/heads/main/Loop/Video%20File/RRI%20Loop/segment-2-8.ts
-
-#EXT-X-MEDIA-SEQUENCE
-#EXT-X-DISCONTINUITY-SEQUENCE
-#EXTINF:2,
-https://github.com/WaTV248/Stream/raw/refs/heads/main/Loop/Video%20File/RRI%20Loop/segment-2-1.ts
-#EXTINF:2,
-https://github.com/WaTV248/Stream/raw/refs/heads/main/Loop/Video%20File/RRI%20Loop/segment-2-2.ts
-#EXTINF:2,
-https://github.com/WaTV248/Stream/raw/refs/heads/main/Loop/Video%20File/RRI%20Loop/segment-2-3.ts
-#EXTINF:2,
-https://github.com/WaTV248/Stream/raw/refs/heads/main/Loop/Video%20File/RRI%20Loop/segment-2-4.ts
-#EXTINF:2,
-https://github.com/WaTV248/Stream/raw/refs/heads/main/Loop/Video%20File/RRI%20Loop/segment-2-5.ts
-#EXTINF:2,
-https://github.com/WaTV248/Stream/raw/refs/heads/main/Loop/Video%20File/RRI%20Loop/segment-2-6.ts
-#EXTINF:2,
-https://github.com/WaTV248/Stream/raw/refs/heads/main/Loop/Video%20File/RRI%20Loop/segment-2-7.ts
-#EXTINF:1,
-https://github.com/WaTV248/Stream/raw/refs/heads/main/Loop/Video%20File/RRI%20Loop/segment-2-8.ts
-
 
 #EXT-X-ENDLIST
