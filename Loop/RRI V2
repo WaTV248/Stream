@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:15
+#EXTINF:15.0,
+https://github.com/WaTV248/Stream/raw/refs/heads/main/Loop/Video%20File/RTRI
+#EXTINF:15.0,
+https://github.com/WaTV248/Stream/raw/refs/heads/main/Loop/Video%20File/RTRI
+#EXT-X-DISCONTINUITY
+#EXTINF:15.0,
+https://github.com/WaTV248/Stream/raw/refs/heads/main/Loop/Video%20File/RTRI
+#EXT-X-ENDLIST
