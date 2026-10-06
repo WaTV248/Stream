@@ -7,13 +7,13 @@
 #EXT-X-DISCONTINUITY
 #EXTINF:15,
 https://raw.githubusercontent.com/WaTV248/Stream/refs/heads/main/Loop/Video%20File/RRI%20Loop/playlist-2.m3u8
-#EXT-X-DISCONTINUITY
+#EXT-X-DISCONTINUITY-SEQUENCE
 #EXTINF:15,
 https://raw.githubusercontent.com/WaTV248/Stream/refs/heads/main/Loop/Video%20File/RRI%20Loop/playlist-2.m3u8
-#EXT-X-DISCONTINUITY
+#EXT-X-DISCONTINUITY-SEQUENCE
 #EXTINF:15,
 https://raw.githubusercontent.com/WaTV248/Stream/refs/heads/main/Loop/Video%20File/RRI%20Loop/playlist-2.m3u8
-#EXT-X-DISCONTINUITY
+#EXT-X-DISCONTINUITY-SEQUENCE
 #EXTINF:15,
 https://raw.githubusercontent.com/WaTV248/Stream/refs/heads/main/Loop/Video%20File/RRI%20Loop/playlist-2.m3u8
 
