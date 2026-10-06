@@ -1,10 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:15
-#EXTINF:15.0,
-https://applejack.miconv.com/api/download/41a0d71e-c975-49d6-a8e3-181ba3fa729c/
-#EXTINF:15.0,
-https://applejack.miconv.com/api/download/41a0d71e-c975-49d6-a8e3-181ba3fa729c/
-#EXT-X-DISCONTINUITY
-#EXTINF:15.0,
-https://applejack.miconv.com/api/download/41a0d71e-c975-49d6-a8e3-181ba3fa729c/
+#EXTINF:-1, Video Looping RRI
+https://github.com/WaTV248/Stream/raw/refs/heads/main/Loop/Video%20File/Looping%20RRI.mp4
