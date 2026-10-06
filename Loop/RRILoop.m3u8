@@ -1,6 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:15
+#EXT-X-DISCONTINUITY
 #EXTINF:15.0,
 https://github.com/WaTV248/Stream/raw/refs/heads/main/Loop/Video%20File/RRI%20Loop/playlist-2.m3u8
 #EXTINF:15.0,
