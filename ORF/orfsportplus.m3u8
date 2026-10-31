@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-aacl-206",LANGUAGE="de",NAME="Deutsch",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2",URI="https://test02.mdn.ors.at/orf/orfs/qxa/orfs-audio_206101_ger=206000.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-aacl-206",LANGUAGE="mis",NAME="mis",AUTOSELECT=YES,CHANNELS="2",URI="https://test02.mdn.ors.at/orf/orfs/qxa/orfs-audio_206102_mis=206000.m3u8"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="textstream",LANGUAGE="de",NAME="German",AUTOSELECT=YES,URI="https://test02.mdn.ors.at/orf/orfs/qxa/orfs-textstream_1270351735_deu=8000.m3u8"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="textstream",LANGUAGE="mis",NAME="mis",AUTOSELECT=YES,URI="https://test02.mdn.ors.at/orf/orfs/qxa/orfs-textstream_1270351767_mis=8000.m3u8"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="textstream",NAME="textstream_1270351768_und",AUTOSELECT=YES,URI="https://test02.mdn.ors.at/orf/orfs/qxa/orfs-textstream_1270351768_und=8000.m3u8"
+#EXT-X-STREAM-INF:BANDWIDTH=6415000,AVERAGE-BANDWIDTH=5832000,CODECS="mp4a.40.2,avc1.640020",RESOLUTION=1280x720,FRAME-RATE=50,VIDEO-RANGE=SDR,AUDIO="audio-aacl-206",SUBTITLES="textstream",CLOSED-CAPTIONS=NONE
+https://test02.mdn.ors.at/orf/orfs/qxa/orfs-video=5299600.m3u8
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=773000,CODECS="avc1.640020",RESOLUTION=1280x720,VIDEO-RANGE=SDR,URI="https://test02.mdn.ors.at/orf/orfs/qxa/keyframes/orfs-video=5299600.m3u8"
